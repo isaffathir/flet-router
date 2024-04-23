@@ -21,5 +21,5 @@ See the example in the ```samples``` folder
 
 You can install Flet Router using pip:
 ```bash
-pip install git+https://github.com/50Bytes-dev/flet-router.git
+pip install git+https://github.com/isaffathir/flet-router.git
 ```
