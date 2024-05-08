@@ -7,9 +7,9 @@ license = "MIT"
 readme = "README.md"
 packages = [{ include = "flet_router", from = "src" }]
 
-[tool.poetry.dependencies]
-python = ">=3.8,<4.0"
-flet = ">=0.22.0"
+# [tool.poetry.dependencies]
+# python = ">=3.8,<4.0"
+# flet = ">=0.22.0"
 
 # [tool.poetry.dev-dependencies]
 # uvicorn = "^0.27.1"
